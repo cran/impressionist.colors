@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("graphics", "barplot", "mtext", "par", "plot.new",
+             "rasterImage", "title")
+
